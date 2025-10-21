@@ -1,0 +1,1 @@
+[{"id":"015279e85bdc1844","type":"tab","label":"流程 2","disabled":false,"info":"","env":[]},{"id":"c2bc526150af51b9","type":"inject","z":"015279e85bdc1844","name":"","props":[{"p":"payload"},{"p":"topic","vt":"str"}],"repeat":"","crontab":"","once":false,"onceDelay":0.1,"topic":"","payload":"","payloadType":"date","x":270,"y":160,"wires":[[]]}]
