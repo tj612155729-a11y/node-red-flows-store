@@ -12,6 +12,18 @@
     "version": "4.0.2"
   },
   {
+    "id": "node-red/function",
+    "name": "function",
+    "types": [
+      "function"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.2"
+  },
+  {
     "id": "node-red/inject",
     "name": "inject",
     "types": [
