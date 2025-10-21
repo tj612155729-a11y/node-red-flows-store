@@ -1,5 +1,41 @@
 [
   {
+    "id": "node-red/catch",
+    "name": "catch",
+    "types": [
+      "catch"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.2"
+  },
+  {
+    "id": "node-red/change",
+    "name": "change",
+    "types": [
+      "change"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.2"
+  },
+  {
+    "id": "node-red/debug",
+    "name": "debug",
+    "types": [
+      "debug"
+    ],
+    "enabled": true,
+    "local": false,
+    "user": false,
+    "module": "node-red",
+    "version": "4.0.2"
+  },
+  {
     "id": "node-red/inject",
     "name": "inject",
     "types": [
